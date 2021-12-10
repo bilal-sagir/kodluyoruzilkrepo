@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
----
+
 
 ## Installation 
 
@@ -9,18 +9,18 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 `git clone https://www.github.com/bilal-sagir/kodluyoruzilkrepo.git`
 ---
 
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra Xcode programın açın.
 
 Linux için: 
 
-```Linux
+``` Linux
 cd kodluyoruzilkrepo
 code .
 ```
 ---
 
-##Contributing
+## Contributing
 
 
