@@ -7,7 +7,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Öncelikle projeyi clonelayın.
 
 `git clone https://www.github.com/bilal-sagir/kodluyoruzilkrepo.git`
----
 
 ## Usage
 
